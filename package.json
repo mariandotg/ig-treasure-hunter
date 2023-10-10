@@ -7,7 +7,7 @@
   "author": "Mariano Guillaume <marianguillaume.m@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "yarn tsc && node dist/index.js"
+    "start": "yarn tsc && node build/index.js"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.32",
